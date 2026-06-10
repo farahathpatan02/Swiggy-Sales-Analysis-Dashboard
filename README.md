@@ -102,6 +102,6 @@ Developed a dynamic Excel dashboard that transforms raw Swiggy sales data into a
 
 PATAN FARAHATH
 
-LinkedIn: Add Your LinkedIn Profile Link
+LinkedIn: linkedin.com/in/farhath-patan-5b8020358
 
-GitHub: Add Your GitHub Profile Link
+GitHub: https://github.com/farahathpatan02
